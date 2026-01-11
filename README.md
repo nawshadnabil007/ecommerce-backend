@@ -99,7 +99,7 @@ docker-compose exec app node src/seeders/seed.js
 
 ## ⚙️ Configuration
 
-Update `.env` file with your credentials:
+Update `.env` file with credentials:
 
 ```env
 # Database
@@ -485,14 +485,9 @@ After running seeders:
 - **Admin**: admin@ecommerce.com / admin123
 - **User**: user@test.com / user123
 
-## 📝 License
-
-This project is created for interview assessment purposes.
 
 ## 🤝 Support
 
 For issues or questions, please create an issue in the repository.
 
 ---
-
-**Built with ❤️ for Backend Engineer Assessment**
